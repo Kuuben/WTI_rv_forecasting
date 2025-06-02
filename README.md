@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a comprehensive machine learning project focused on predicting West Texas Intermediate (WTI) crude oil prices using various machine learning algorithms and techniques. The project implements multiple models including Random Forest, XGBoost, LightGBM, LSTM, and GRU neural networks to forecast oil prices based on historical data and related economic indicators.
+Created for my thesis, this repository contains project files on predicting West Texas Intermediate (WTI) crude oil prices. The project implements multiple models including Random Forest, XGBoost, LightGBM, LSTM, and GRU neural networks to forecast oil prices based on historical data and related economic indicators.
 
 The analysis incorporates several key financial and economic variables that influence oil prices, such as the AMEX Oil Index, OVX (Oil Volatility Index), inventory levels, geopolitical risk indicators, and MSCI World Index data. Through comparative analysis of different models and feature importance evaluation using SHAP (SHapley Additive exPlanations), this project provides insights into the factors driving oil price movements and the predictive performance of various machine learning approaches.
 
